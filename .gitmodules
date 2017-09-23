@@ -1,0 +1,6 @@
+[submodule "bash-my-gcp"]
+	path = bash-my-gcp
+	url = https://www.github.com/mcrmonkey/bash-my-gcp
+[submodule "bash-my-kubes"]
+	path = bash-my-kubes
+	url = https://www.github.com/mcrmonkey/bash-my-kubes
