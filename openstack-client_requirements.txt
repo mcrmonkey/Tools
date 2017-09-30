@@ -1,0 +1,9 @@
+python-ceilometerclient==2.9.0
+python-cinderclient==3.2.0
+python-glanceclient==2.8.0
+python-heatclient==1.11.0
+python-keystoneclient==2.13.0
+python-neutronclient==6.5.0
+python-novaclient==9.1.0
+python-openstackclient==3.12.0
+python-swiftclient==3.4.0
