@@ -4,3 +4,6 @@
 [submodule "bash-my-kubes"]
 	path = bash-my-kubes
 	url = https://www.github.com/mcrmonkey/bash-my-kubes
+[submodule "password-store"]
+	path = password-store
+	url = https://git.zx2c4.com/password-store
