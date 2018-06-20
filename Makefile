@@ -2,6 +2,7 @@ MAKEFLAGS += -rR -s --include-dir=$(CURDIR)
 
 .PHONY: bash-my-gcp bash-my-kubes all pass openstack-utils update help
 SHELL = /bin/bash
+.DEFAULT_GOAL = help
 
 help:
 	@echo -ne "\nTargets:\n\nall    \t\t - Everything below\n"

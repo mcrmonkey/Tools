@@ -7,6 +7,9 @@ Provides a bunch of tools - more to come in the future
 
 * [bash-my-kubes](https://www.github.com/mcrmonkey/bash-my-kubes) - bash aliases for working with kubectl
 
+* [password-store](https://git.zx2c4.com/password-store) - password storage using gnupg
+
+* Openstack client - python requirements file
 
 ## Installing
 
