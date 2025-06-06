@@ -5,5 +5,5 @@ python-heatclient==1.11.0
 python-keystoneclient==2.13.0
 python-neutronclient==6.5.0
 python-novaclient==9.1.0
-python-openstackclient==3.12.0
+python-openstackclient==6.3.0
 python-swiftclient==3.4.0
